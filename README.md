@@ -1,3 +1,6 @@
 # phoenix-via-fsharp
-Hi Phoenix Framework! 
-    -Hugs from F#
+```
+Hello Phoenix Framework! 
+   with love & hug,
+   F#
+```
